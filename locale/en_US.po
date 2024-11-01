@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Hyves\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-15 02:01+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: daveligthart.com <info@daveligthart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: Netherlands\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: view\n"
+"X-Poedit-SearchPath-1: view/wp-hyves\n"
+"X-Poedit-SearchPath-2: view/admin\n"
+"X-Poedit-SearchPath-3: classes/widget\n"
+
+#: view/admin/admin_config.php:13
+msgid "WP-Hyves Options"
+msgstr ""
+
+#: view/admin/admin_config.php:17
+msgid "CURL extension not installed:"
+msgstr ""
+
+#: view/admin/admin_config.php:18
+msgid "you must have CURL extension enabled in your php configuration"
+msgstr ""
+
+#: view/admin/admin_config.php:24
+msgid "Can't write to"
+msgstr ""
+
+#: view/admin/admin_config.php:25
+msgid "Make sure the directory is writable by:<br/> <pre>chmod 777 "
+msgstr ""
+
+#: view/admin/admin_config.php:31
+msgid "Get Hyves API Key here:"
+msgstr ""
+
+#: view/admin/admin_config.php:49
+msgid "Enter Consumer key"
+msgstr ""
+
+#: view/admin/admin_config.php:50
+msgid "Consumer Key"
+msgstr ""
+
+#: view/admin/admin_config.php:57
+msgid "Enter Consumer secret"
+msgstr ""
+
+#: view/admin/admin_config.php:58
+msgid "Consumer Secret"
+msgstr ""
+
+#: view/admin/admin_config.php:62
+msgid "Save Changes"
+msgstr ""
+
+#: view/admin/admin_config.php:68
+msgid "WP-Hyves is enabled"
+msgstr ""
+
+#: view/admin/admin_config.php:75
+msgid "Help"
+msgstr ""
+
+#: view/admin/admin_config.php:77
+msgid "If you cannot get this plugin to work <br/> please check your ip settings of the created Desktop Consumer at: <br/>"
+msgstr ""
+
+#: view/admin/admin_config.php:79
+msgid "Copy IP: "
+msgstr ""
+
+#: view/admin/admin_import_users.php:20
+msgid "Import Friends"
+msgstr ""
+
+#: view/admin/blocks/footer.php:10
+msgid "Support"
+msgstr ""
+
+#: view/admin/blocks/footer.php:13
+msgid "<strong>Join the public WP-Hyves Hyve (for info and support) at:</strong><br/>"
+msgstr ""
+
+#: view/admin/blocks/footer.php:16
+msgid "Plugin by"
+msgstr ""
+
+#: view/admin/blocks/list-users.php:4
+msgid "name"
+msgstr ""
+
+#: view/admin/blocks/list-users.php:5
+msgid "username"
+msgstr ""
+
+#: view/admin/blocks/list-users.php:6
+msgid "email"
+msgstr ""
+
+#: view/admin/blocks/list-users.php:13
+msgid "Currently Imported Friends"
+msgstr ""
+
+#: view/admin/blocks/list-users.php:64
+msgid "none"
+msgstr ""
+
+#: classes/widget/WPHyvesDashboardWidget.php:77
+msgid "Hyves Friends Added"
+msgstr ""
+
+#: classes/widget/WPHyvesDashboardWidget.php:79
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:100
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:94
+msgid "add friends"
+msgstr ""
+
+#: classes/widget/WPHyvesFriendsWidget.php:16
+#: classes/widget/WPHyvesFriendsWidget.php:32
+#: classes/widget/WPHyvesFriendsWidget.php:64
+msgid "Hyves Friend Cloud"
+msgstr ""
+
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:57
+msgid "Tips from your friends"
+msgstr ""
+
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:61
+msgid "Import Tips"
+msgstr ""
+
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:98
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:92
+msgid "(0) Friends found"
+msgstr ""
+
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:57
+msgid "What are your friends doing?"
+msgstr ""
+
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:61
+msgid "Import WWWs"
+msgstr ""
+
+#: classes/widget/WPHyvesScrapsDashboardWidget.php:43
+msgid "Import your latest hyves scraps"
+msgstr ""
+
+#: classes/widget/WPHyvesScrapsDashboardWidget.php:49
+msgid "Import Scraps"
+msgstr ""
+
+#: classes/widget/WPHyvesScrapsDashboardWidget.php:62
+#: classes/widget/WPHyvesScrapsWidget.php:38
+msgid "from"
+msgstr ""
+
+#: classes/widget/WPHyvesScrapsWidget.php:15
+#: classes/widget/WPHyvesScrapsWidget.php:27
+#: classes/widget/WPHyvesScrapsWidget.php:70
+msgid "Hyves Scraps"
+msgstr ""
+
+#: classes/widget/WPHyvesTipsWidget.php:20
+#: classes/widget/WPHyvesTipsWidget.php:36
+#: classes/widget/WPHyvesTipsWidget.php:77
+msgid "Hyves Tips from Friends"
+msgstr ""
+
+#: classes/widget/WPHyvesWWWsDashboardWidget.php:57
+msgid "Show your friends what you're doing"
+msgstr ""
+
+#: classes/widget/WPHyvesWWWsWidget.php:16
+#: classes/widget/WPHyvesWWWsWidget.php:32
+#: classes/widget/WPHyvesWWWsWidget.php:73
+msgid "Hyves WWWs"
+msgstr ""
+

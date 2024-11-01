@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Hyves\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-15 02:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dave Ligthart <dligthart@gmail.com>\n"
+"Language-Team: daveligthart.com <info@daveligthart.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: Netherlands\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: view\n"
+"X-Poedit-SearchPath-1: view/wp-hyves\n"
+"X-Poedit-SearchPath-2: view/admin\n"
+"X-Poedit-SearchPath-3: classes/widget\n"
+"X-Poedit-SearchPath-4: classes/util\n"
+
+#: view/admin/admin_config.php:13
+msgid "WP-Hyves Options"
+msgstr "WP-Hyves Opties"
+
+#: view/admin/admin_config.php:17
+msgid "CURL extension not installed:"
+msgstr "CURL extensie niet geinstalleerd:"
+
+#: view/admin/admin_config.php:18
+msgid "you must have CURL extension enabled in your php configuration"
+msgstr "CURL moet aan staan in je php configuratie"
+
+#: view/admin/admin_config.php:24
+msgid "Can't write to"
+msgstr "Kan niet schrijven naar"
+
+#: view/admin/admin_config.php:25
+msgid "Make sure the directory is writable by:<br/> <pre>chmod 777 "
+msgstr "Zorg dat de map schrijfbaar is door:<br/> <pre>chmod 777"
+
+#: view/admin/admin_config.php:31
+msgid "Get Hyves API Key here:"
+msgstr "Je kan de Hyves API sleutel hier vinden:"
+
+#: view/admin/admin_config.php:49
+msgid "Enter Consumer key"
+msgstr "Invoeren Consumer key"
+
+#: view/admin/admin_config.php:50
+msgid "Consumer Key"
+msgstr ""
+
+#: view/admin/admin_config.php:57
+msgid "Enter Consumer secret"
+msgstr "Invoeren Consumer secret"
+
+#: view/admin/admin_config.php:58
+msgid "Consumer Secret"
+msgstr ""
+
+#: view/admin/admin_config.php:62
+msgid "Save Changes"
+msgstr "Bewaar"
+
+#: view/admin/admin_config.php:68
+msgid "WP-Hyves is enabled"
+msgstr "WP-Hyves is geactiveerd"
+
+#: view/admin/admin_config.php:75
+msgid "Help"
+msgstr "Help"
+
+#: view/admin/admin_config.php:77
+msgid "If you cannot get this plugin to work <br/> please check your ip settings of the created Desktop Consumer at: <br/>"
+msgstr "Als je deze plugin niet werkend krijgt <br/> check dan je ip instellingen van de Desktop Consumer op: <br/>"
+
+#: view/admin/admin_config.php:79
+msgid "Copy IP: "
+msgstr "Kopieer IP:"
+
+#: view/admin/admin_import_users.php:20
+msgid "Import Friends"
+msgstr "Importeer Vrienden"
+
+#: view/admin/blocks/footer.php:10
+msgid "Support"
+msgstr "Steun"
+
+#: view/admin/blocks/footer.php:13
+msgid "<strong>Join the public WP-Hyves Hyve (for info and support) at:</strong><br/>"
+msgstr "<strong>Sluit aan bij de publieke WP-Hyves Hyve (voor informatie en ondersteuning) via:</strong><br/>"
+
+#: view/admin/blocks/footer.php:16
+msgid "Plugin by"
+msgstr "Plugin door"
+
+#: view/admin/blocks/list-users.php:4
+msgid "name"
+msgstr "naam"
+
+#: view/admin/blocks/list-users.php:5
+msgid "username"
+msgstr "gebruikersnaam"
+
+#: view/admin/blocks/list-users.php:6
+msgid "email"
+msgstr "email"
+
+#: view/admin/blocks/list-users.php:13
+msgid "Currently Imported Friends"
+msgstr "Reeds Geimporteerde Vrienden"
+
+#: view/admin/blocks/list-users.php:64
+msgid "none"
+msgstr "geen"
+
+#: classes/widget/WPHyvesDashboardWidget.php:29
+msgid "WP-Hyves - My Friends Cloud"
+msgstr "WP-Hyves - Vrienden"
+
+#: classes/widget/WPHyvesDashboardWidget.php:77
+msgid "Hyves Friends Added"
+msgstr "Hyves Vrienden"
+
+#: classes/widget/WPHyvesDashboardWidget.php:79
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:100
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:94
+msgid "add friends"
+msgstr "voeg vrienden toe"
+
+#: classes/widget/WPHyvesFriendsWidget.php:16
+#: classes/widget/WPHyvesFriendsWidget.php:44
+#: classes/widget/WPHyvesFriendsWidget.php:80
+msgid "Hyves Friend Cloud"
+msgstr "Hyves Vrienden"
+
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:29
+msgid "WP-Hyves - Friend Tips"
+msgstr "WP-Hyves - Vrienden Tips"
+
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:57
+msgid "Hyves Tips from your friends"
+msgstr "Hyves Tips van je vrienden"
+
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:61
+msgid "Import Tips"
+msgstr "Importeer Tips"
+
+#: classes/widget/WPHyvesFriendTipsDashboardWidget.php:98
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:92
+msgid "(0) Friends found"
+msgstr "(0) Vrienden gevonden"
+
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:29
+msgid "WP-Hyves - Friend WWWs"
+msgstr "WP-Hyves - WWWs van Vrienden"
+
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:57
+msgid "What are your friends doing?"
+msgstr "Wat zijn je vrienden aan het doen zijn"
+
+#: classes/widget/WPHyvesFriendWWWsDashboardWidget.php:61
+msgid "Import WWWs"
+msgstr "Importeer WWWs"
+
+#: classes/widget/WPHyvesScrapsDashboardWidget.php:20
+msgid "WP-Hyves - Scraps"
+msgstr "WP-Hyves - Krabbels"
+
+#: classes/widget/WPHyvesScrapsDashboardWidget.php:43
+msgid "Import your latest hyves scraps"
+msgstr "Importeer je laatste krabbels"
+
+#: classes/widget/WPHyvesScrapsDashboardWidget.php:49
+msgid "Import Scraps"
+msgstr "Importeer Krabbels"
+
+#: classes/widget/WPHyvesScrapsDashboardWidget.php:62
+#: classes/widget/WPHyvesScrapsWidget.php:56
+msgid "from"
+msgstr "van"
+
+#: classes/widget/WPHyvesScrapsWidget.php:21
+#: classes/widget/WPHyvesScrapsWidget.php:43
+#: classes/widget/WPHyvesScrapsWidget.php:89
+msgid "Hyves Scraps"
+msgstr "Hyves Krabbels"
+
+#: classes/widget/WPHyvesTipsWidget.php:21
+#: classes/widget/WPHyvesTipsWidget.php:47
+#: classes/widget/WPHyvesTipsWidget.php:93
+msgid "Hyves Tips from Friends"
+msgstr "Hyves Tips van Vrienden"
+
+#: classes/widget/WPHyvesWWWsDashboardWidget.php:29
+msgid "WP-Hyves - WWWs"
+msgstr "WP-Hyves - WWWs"
+
+#: classes/widget/WPHyvesWWWsDashboardWidget.php:57
+msgid "Show your friends what you're doing"
+msgstr "Laat je vrienden zien wat je aan het doen bent"
+
+#: classes/widget/WPHyvesWWWsWidget.php:21
+#: classes/widget/WPHyvesWWWsWidget.php:51
+#: classes/widget/WPHyvesWWWsWidget.php:107
+msgid "Hyves WWWs"
+msgstr "Hyves WWWs"
+
+#: classes/util/WPHyvesAPI.php:347
+msgid "session invalid, please retry"
+msgstr "sessie onjuist, probeer nogmaals"
+
+#: classes/util/WPHyvesAPI.php:377
+msgid "Post added successfully!"
+msgstr "Artikel succesvol toegevoegd!"
+
+#: classes/util/WPHyvesAPI.php:380
+msgid "View it here:"
+msgstr "Bekijk deze hier:"
+
+#: classes/util/WPHyvesAPI.php:389
+msgid "return to menu"
+msgstr "terug naar menu"
+
+#: classes/util/WPHyvesAPI.php:434
+msgid "WWW added successfully!"
+msgstr "WWW toegevoegd!"
+
+#: classes/util/WPHyvesAPI.php:439
+msgid "Failed to add WWW"
+msgstr "WWW niet toegevoegd"
+
+#: classes/util/WPHyvesAPI.php:483
+msgid "Importing Scraps"
+msgstr "Importeren Krabbels"
+
+#: classes/util/WPHyvesAPI.php:485
+#: classes/util/WPHyvesAPI.php:564
+#: classes/util/WPHyvesAPI.php:597
+msgid "Please wait.."
+msgstr "Even geduld aub.."
+
+#: classes/util/WPHyvesAPI.php:551
+#: classes/util/WPHyvesAPI.php:582
+#: classes/util/WPHyvesAPI.php:619
+msgid "Importing finished."
+msgstr "Importeren gelukt."
+
+#: classes/util/WPHyvesAPI.php:553
+#: classes/util/WPHyvesAPI.php:585
+#: classes/util/WPHyvesAPI.php:622
+msgid "return to dashboard"
+msgstr "terug naar dashboard"
+
+#: classes/util/WPHyvesAPI.php:562
+msgid "Importing Friend Tips"
+msgstr "Importeren Tips"
+
+#: classes/util/WPHyvesAPI.php:595
+msgid "Importing Friend WWWs"
+msgstr "Importeren WWWs"
+
+#: classes/util/WPHyvesAPI.php:647
+msgid "Default password for added users:"
+msgstr "Standaard wachtwoord voor toegevoegde gebruikers:"
+
+#: classes/util/WPHyvesAPI.php:649
+msgid "Send this password to all users manually."
+msgstr "Verstuur dit wachtwoord handmatig naar alle gebruikers."
+
+#: classes/util/WPHyvesAPI.php:764
+msgid "Menu"
+msgstr "Menu"
+
+#: classes/util/WPHyvesAPI.php:800
+msgid "Select post to publish to Hyves"
+msgstr "Selecteer artikel om te publiceren naar Hyves"
+
